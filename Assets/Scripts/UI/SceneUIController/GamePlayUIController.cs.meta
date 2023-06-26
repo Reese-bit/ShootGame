@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e85e6cb4ddf89e643b6c42e9b080a477
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerInput: {fileID: 11400000, guid: c727bda1acbd8ce45a8e5c32e3339bf7, type: 2}
+  - hudCanvas: {instanceID: 0}
+  - menuCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
